@@ -1,0 +1,361 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "health_plant_020022.tsx",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Blue Child Joni - blue_child_joni_corpse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/Map1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.5,
+                "y": 5.5
+            }
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/Map2.tmx": {
+            "expandedObjectLayers": [
+                9,
+                12,
+                10,
+                11
+            ],
+            "scale": 1,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1474,
+                "y": 1790.5
+            }
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/TorchSprite.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/floor_layered_0003_01_green.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/fung_new_0126_03.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/fung_new_0127_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/fung_pillar_wall_0001_2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/fungd_wall_01.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/lighthouse_top_windows.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/ruin_lamp_01.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Asus/IdeaProjects/MyBelovedProject/assets/thorn_plinth.tsx": {
+            "scaleInDock": 1
+        },
+        "FK_break__0006_wall_metal.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "GG_door_bg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lore_0000_fung_core_glow_02.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "MAp4.tmx": {
+            "expandedObjectLayers": [
+                11,
+                10
+            ],
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 457.33333333333326,
+                "y": 1118
+            }
+        },
+        "Map1.tmx": {
+            "expandedObjectLayers": [
+                9,
+                18,
+                17,
+                13,
+                11,
+                14,
+                10
+            ],
+            "scale": 0.25,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1724,
+                "y": 2398
+            }
+        },
+        "Map2.tmx": {
+            "expandedObjectLayers": [
+                9,
+                13,
+                12,
+                14,
+                10
+            ],
+            "scale": 0.33,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 2139.3939393939395,
+                "y": 471.21212121212113
+            }
+        },
+        "Map3.tmx": {
+            "expandedObjectLayers": [
+                9,
+                11,
+                7,
+                8,
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 343.99999999999994,
+                "y": 1507.3333333333333
+            }
+        },
+        "TorchSprite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "amelitia_flowers_0001_7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue_butterfly.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "bone_bench.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "butterfly.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "cd_big_roof_0000_07.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "dream_lamp_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor_layered_0003_01_green.tsx": {
+            "scaleInDock": 0.5
+        },
+        "forgotten crossroads background.tsx": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 1
+        },
+        "fung_new_0044_Layer-303.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fung_new_0046_Layer-301.tsx": {
+            "scaleInDock": 11,
+            "scaleInEditor": 1
+        },
+        "fung_new_0126_03.tsx": {
+            "scaleInDock": 1
+        },
+        "fung_new_0127_02.tsx": {
+            "scaleInDock": 1
+        },
+        "fung_new_0134_Layer-235.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fung_pillar_wall_0001_2.tsx": {
+            "scaleInDock": 1
+        },
+        "fung_plat_float_09.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fungd_spikes_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fungd_spikes_09_FG.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fungd_wall_01.tsx": {
+            "scaleInDock": 1
+        },
+        "fungd_wall_fence_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass_02_idle0022.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "health_plant_020022.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lamp_01.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "light_effect_v02.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "lighthouse_top_windows.tsx": {
+            "scaleInDock": 0.5
+        },
+        "map 1 0.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "map 10.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        },
+        "nailmaster_fung_hut_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nailmaster_fung_hut_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "plant2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "roff.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "royal_garden_BG_small_plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "royal_plat_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ruin_lamp_01.tsx": {
+            "scaleInDock": 1
+        },
+        "ruind_dressing_window_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ruins_mid_wall_back.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop_0002_back.tsx": {
+            "scaleInDock": 0.25
+        },
+        "spikes0003.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "spines0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "spritesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "stag_door_open003.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "station_BG_tunnel #34713.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "temple_ext_floor_02.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "thorn_plinth.tsx": {
+            "scaleInDock": 1
+        },
+        "transport_BG.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "vil_BG_07.tsx": {
+            "scaleInDock": 1
+        },
+        "vine_platform_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 180,
+    "last.externalTilesetPath": "C:/Users/Asus/IdeaProjects/myBelovedProject/assets",
+    "last.imagePath": "C:/Users/Asus/IdeaProjects/myBelovedProject/assets/NPCs",
+    "map.height": 350,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 250,
+    "openFiles": [
+        "Map1.tmx",
+        "Map2.tmx",
+        "Map3.tmx",
+        "fungd_spikes_01.tsx",
+        "MAp4.tmx",
+        "health_plant_020022.tsx",
+        "station_BG_tunnel #34713.tsx",
+        "transport_BG.tsx",
+        "Blue Child Joni - blue_child_joni_corpse.tsx"
+    ],
+    "project": "Forgotten Crossroads.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Map1.tmx",
+        "Map2.tmx",
+        "Map3.tmx",
+        "fungd_spikes_01.tsx",
+        "MAp4.tmx",
+        "Blue Child Joni - blue_child_joni_corpse.tsx",
+        "transport_BG.tsx",
+        "station_BG_tunnel #34713.tsx",
+        "health_plant_020022.tsx",
+        "amelitia_flowers_0001_7.tsx",
+        "ruind_dressing_window_01.tsx",
+        "fungd_wall_fence_01.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
